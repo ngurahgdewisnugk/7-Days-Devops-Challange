@@ -30,7 +30,7 @@ In this project, I will set up a ```Git``` repository on ```GitHub``` to safely 
 ### Project reflection
 
 *   **Duration:** Approximately 3 hours.
-*   [**Challenge:**](<### Challange: Resolving 403 Permission Denied Error>) Setting up the GitHub Personal Access Token (PAT) and troubleshooting authentication issues.
+*   [**Challenge:**](https://github.com/ngurahgdewisnugk/7-Days-Devops-Challange/blob/main/02%20-%20Connect%20a%20Github%20Repo%20with%20AWS/Connect%20a%20GitHub%20Repo%20with%20AWS.md#challange-resolving-403-permission-denied-error) Setting up the GitHub Personal Access Token (PAT) and troubleshooting authentication issues.
 *   **Reward:** Successfully establishing a secure connection between the local EC2 repository and GitHub.
 *   **Goal:** This project is part of a DevOps series aimed at mastering CI/CD pipelines to accelerate my career in cloud-native orchestration.
 
@@ -170,7 +170,7 @@ To make my changes visible in my GitHub repository :
 
 A README file is a document, usually written in Markdown, that serves as the introduction to your project in a GitHub repository. Its main purpose is to explain what your project is about, how to set it up, and how to use it. It's often the first thing people see when they visit your repository, providing essential information at a glance.
 
-[My README]() file has sections that outline Project Titile, Table of Contents, Introduction, Technologies , Setup, Contact, Conclusion
+[My README](https://github.com/ngurahgdewisnugk/nextwork-web-project.git) file has sections that outline Project Titile, Table of Contents, Introduction, Technologies , Setup, Contact, Conclusion
 
 ![Image](http://learn.nextwork.org/motivated_teal_shy_hog/uploads/aws-devops-github_c94976902)
 
