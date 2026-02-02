@@ -11,7 +11,7 @@
 
 ## I'm starting the 7-Day DevOps challenge!
 
-![Image](http://learn.nextwork.org/motivated_teal_shy_hog/uploads/aws-devops-cicd_ba6d42ae)
+![Image](http://learn.nextwork.org/motivated_teal_shy_hog/uploads/aws-devops-cicd_a1b2c3d4)
 
 ---
 
@@ -27,9 +27,12 @@ In this DevOps challenge, I'm learning about a complete CI/CD pipeline that take
 - <Automate My  Infrastructure with CloudFormation>
 - <CI/CD with CodePipeline>
 
+---
+## Final Capstone Project
 
+This challenge culminates in a final capstone project where I apply all the skills learned to build a robust, automated CI/CD environment. You can find the detailed implementation and source code for the capstone project in the following repository:
 
-![Image](http://learn.nextwork.org/motivated_teal_shy_hog/uploads/aws-devops-cicd_a1b2c3d4)
+**Capstone Repository:** [nextwork-web-project](https://github.com/ngurahgdewisnugk/nextwork-web-project.git)
 
 ---
 
