@@ -19,13 +19,13 @@
 
 In this DevOps challenge, I'm learning about a complete CI/CD pipeline that takes code from commit to production, gaining practical DevOps skills that are in high demand across the tech and cloud industry. By the end of the 7 days, I will know about : 
 
-- <How to set up Web App Environment in the Cloud.> 
-- <Connect a GitHub Repo with AWS>
-- <Store Dependencies in CodeArtifact>
-- <Package an App with CodeBuild>
-- <Deploy an App with CodeDeploy>
-- <Automate My  Infrastructure with CloudFormation>
-- <CI/CD with CodePipeline>
+- [How to set up Web App Environment in the Cloud](https://github.com/ngurahgdewisnugk/7-Days-Devops-Challange/blob/198d44080b142a6a9f061e2b8b5e0ac416dbd178/01%20-%20Set%20Up%20a%20Web%20App%20in%20the%20Cloud/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md) 
+- [Connect a GitHub Repo with AWS](https://github.com/ngurahgdewisnugk/7-Days-Devops-Challange/blob/198d44080b142a6a9f061e2b8b5e0ac416dbd178/02%20-%20Connect%20a%20Github%20Repo%20with%20AWS/Connect%20a%20GitHub%20Repo%20with%20AWS.md)
+- [Store Dependencies in CodeArtifact](https://github.com/ngurahgdewisnugk/7-Days-Devops-Challange/blob/198d44080b142a6a9f061e2b8b5e0ac416dbd178/03%20-%20Store%20Dependecies%20in%20CodeArtifact/03%20-%20Store%20Dependencies%20in%20CodeArtifact.md)
+- [Package an App with CodeBuild](https://github.com/ngurahgdewisnugk/7-Days-Devops-Challange/blob/198d44080b142a6a9f061e2b8b5e0ac416dbd178/04%20-%20Contionus%20Integration%20with%20Codebuild/Contionus%20Integration%20with%20CodeBuild.md)
+- [Deploy an App with CodeDeploy](https://github.com/ngurahgdewisnugk/7-Days-Devops-Challange/blob/198d44080b142a6a9f061e2b8b5e0ac416dbd178/05%20-%20Deploy%20a%20Web%20App%20with%20CodeDeploy/Deploy%20a%20Web%20App%20With%20CodeDeploy.md)
+- [Infrastructure as Code with CloudFormation](https://github.com/ngurahgdewisnugk/7-Days-Devops-Challange/blob/198d44080b142a6a9f061e2b8b5e0ac416dbd178/06%20-%20Infrastructure%20as%20Code%20with%20CloudFormation/IAC%20with%20CloudFormation.md)
+- [CI/CD with CodePipeline](https://github.com/ngurahgdewisnugk/7-Days-Devops-Challange/tree/198d44080b142a6a9f061e2b8b5e0ac416dbd178/07%20-%20Build%20a%20CICD%20Pipeline%20with%20AWS)
 
 ---
 ## Final Capstone Project
