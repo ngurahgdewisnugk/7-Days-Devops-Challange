@@ -47,7 +47,7 @@ In this project, I will demonstrate how to build an automated CI/CD pipeline wit
 
 > **Duration:** ~3 hours
 
-The most challenging aspect was gaining a deep understanding of the application's version state within CodePipeline and the [IAM rollback policy required for CodePipeline to trigger a rollback with CodeDeploy](). Successfully resolving these issues and completing the challenge was incredibly rewarding!
+The most challenging aspect was gaining a deep understanding of the application's version state within CodePipeline and the [IAM rollback policy required for CodePipeline to trigger a rollback with CodeDeploy](https://github.com/ngurahgdewisnugk/7-Days-Devops-Challange/blob/main/07%20-%20Build%20a%20CICD%20Pipeline%20with%20AWS/Build%20a%20CICD%20Pipeline%20with%20AWS.md#-challenge-fixing-rollback-permissions). Successfully resolving these issues and completing the challenge was incredibly rewarding!
 
 ---
 
@@ -89,11 +89,11 @@ graph LR
 ```
 
 The three core stages I've set up in my CI/CD pipeline are:
-1.  Source Stage: This stage is responsible for fetching the latest version of my 
+1.  **Source Stage**: This stage is responsible for fetching the latest version of my 
     code from my GitHub repository.
-2. Build Stage: Here, AWS CodeBuild compiles and packages the source code 
+2. **Build Stage**: Here, AWS CodeBuild compiles and packages the source code 
     into ready-to-deploy artifacts.
-3. Deploy Stage: In this final stage, AWS CodeDeploy takes the application 
+3. **Deploy Stage**: In this final stage, AWS CodeDeploy takes the application 
     artifacts from the Build stage and deploys them to the target environment.
 
 ### Pipeline Settings
